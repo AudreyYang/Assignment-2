@@ -1,0 +1,39 @@
+/* Do not forget to define the box and put link to html...... */
+html,body,h1,h2,h3,h4,p,div,a,ul,li,span{
+    margin:0;
+    padding:0;
+}
+.box{
+    min-height:100px;
+}
+body{
+    position:relative;
+}
+#red{
+    background:red;
+}
+#yellow{
+    background: yellow;
+    width:33.33%;
+    float:left;
+    height:500px;
+}
+#green{
+    background:green;
+    width:33.33%;
+    float:left;
+    height:500px;
+}
+#blue{
+    background:blue;
+    width:100%;
+    height:500px;
+}
+#purple{
+    background:purple;
+    clear:both;
+}
+.box{
+    min-height:100px;
+}
+
